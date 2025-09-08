@@ -113,6 +113,7 @@ cap.release()
 <img width="346" height="470" alt="image" src="https://github.com/user-attachments/assets/f5bbea7a-5cd9-4012-b2d8-03960770be00" />
 
 ### iv) Rotate and display the video
+<img width="380" height="487" alt="image" src="https://github.com/user-attachments/assets/93f5f5c9-bdf1-4433-acef-328003063988" />
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
